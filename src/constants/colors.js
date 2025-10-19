@@ -1,0 +1,10 @@
+export const colorMapping = {
+    emerald: { border: 'hover:border-emerald-500', bg: 'from-emerald-500/10', iconBg: 'from-emerald-500 to-teal-500', shadow: 'shadow-emerald-500/30', text: 'text-emerald-300', tagBg: 'bg-emerald-500/10', tagBorder: 'border-emerald-500/30' },
+    blue: { border: 'hover:border-blue-500', bg: 'from-blue-500/10', iconBg: 'from-blue-500 to-indigo-500', shadow: 'shadow-blue-500/30', text: 'text-blue-300', tagBg: 'bg-blue-500/10', tagBorder: 'border-blue-500/30' },
+    orange: { border: 'hover:border-orange-500', bg: 'from-orange-500/10', iconBg: 'from-orange-500 to-red-500', shadow: 'shadow-orange-500/30', text: 'text-orange-300', tagBg: 'bg-orange-500/10', tagBorder: 'border-orange-500/30' },
+    cyan: { border: 'hover:border-cyan-500', bg: 'from-cyan-500/10', iconBg: 'from-cyan-500 to-teal-400', shadow: 'shadow-cyan-500/30', text: 'text-cyan-300', tagBg: 'bg-cyan-500/10', tagBorder: 'border-cyan-500/30' },
+    purple: { border: 'hover:border-purple-500', bg: 'from-purple-500/10', iconBg: 'from-purple-500 to-indigo-500', shadow: 'shadow-purple-500/30', text: 'text-purple-300', tagBg: 'bg-purple-500/10', tagBorder: 'border-purple-500/30' },
+    pink: { border: 'hover:border-pink-500', bg: 'from-pink-500/10', iconBg: 'from-pink-500 to-rose-500', shadow: 'shadow-pink-500/30', text: 'text-pink-300', tagBg: 'bg-pink-500/10', tagBorder: 'border-pink-500/30' },
+    yellow: { border: 'hover:border-yellow-500', bg: 'from-yellow-500/10', iconBg: 'from-yellow-500 to-amber-500', shadow: 'shadow-yellow-500/30', text: 'text-yellow-300', tagBg: 'bg-yellow-500/10', tagBorder: 'border-yellow-500/30' },
+    gray: { border: 'hover:border-gray-500', bg: 'from-gray-500/10', iconBg: 'from-gray-500 to-slate-500', shadow: 'shadow-gray-500/30', text: 'text-gray-300', tagBg: 'bg-gray-500/10', tagBorder: 'border-gray-500/30' }
+};
