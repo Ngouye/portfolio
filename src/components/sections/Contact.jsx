@@ -18,8 +18,8 @@ const Contact = () => (
                     <div className="flex-shrink-0">
                         <div className="relative group">
                             <div className="absolute -inset-4 bg-gradient-to-r from-purple-600 to-cyan-600 rounded-full opacity-75 group-hover:opacity-100 blur-xl transition-all duration-300 animate-pulse"></div>
-                            <img 
-                                src={profilePhoto} 
+                            <img
+                                src={profilePhoto}
                                 alt="Photo de profil"
                                 className="relative w-40 h-40 rounded-full border-4 border-gray-800 object-cover group-hover:scale-105 transition-transform duration-300 shadow-2xl shadow-purple-500/30 z-10"
                             />

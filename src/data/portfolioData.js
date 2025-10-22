@@ -8,7 +8,7 @@ import certificatCS50P from '../assets/cs50p-certificate.jpg';
 
 export const portfolioData = {
     name: "Ngouye Gning",
-    roles: ["Expert DevOps", "Développeur", "Expert Sécurité", "Freelance"],
+    roles: ["Expert DevOps", "Développeur","Administrateur Système et bases de données", "Expert Sécurité système et réseau", "Freelance"],
     introduction: "Expert DevOps, Sécurité et Freelance passionné par la construction d'infrastructures sécurisées et évolutives. Expert en technologies cloud, pipelines CI/CD et bonnes pratiques de sécurité. J'apprends actuellement le DevSecOps.",
     photo: maPhoto,
     certifications: [
